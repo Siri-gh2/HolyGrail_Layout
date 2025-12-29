@@ -16,7 +16,7 @@ This project was solved as a hands-on exercise to strengthen core frontend layou
 
 ---
 
-## 🧩 Layout Structure
+##  Layout Structure
 
 The Holy Grail Layout consists of:
 
@@ -30,7 +30,7 @@ The layout adapts seamlessly between **desktop and mobile screens**.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **HTML5**
   - Semantic elements (`header`, `main`, `aside`, `footer`)
@@ -74,7 +74,7 @@ holy/
 
 ✔ Completed  
 ✔ Tested  
-✔ Ready for submission on Code360
+✔ Submitted on Code360
 
 ---
 
